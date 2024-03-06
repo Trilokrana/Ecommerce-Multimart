@@ -1,0 +1,30 @@
+.table tr td img{
+    width: 110px !important;
+    height: 100px !important;
+    object-fit: cover;
+    border-radius: 15px;
+    cursor: pointer;
+}
+td i{
+    cursor: pointer;
+
+}
+td,
+th{
+    color: var(--primary-color);
+}
+.total_amount_btn{
+    display: flex;
+    flex-direction: column;
+   
+}
+.links{
+    text-decoration: none;
+    color: white
+}
+
+.cartlink{
+    text-decoration: none;
+    color: black;
+   
+}

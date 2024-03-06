@@ -1,0 +1,33 @@
+.cancel-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f9f0f0; /* Light background with a hint of red */
+    color: #666; /* Text color with a hint of gray */
+  }
+  
+  .cancel-container h1 {
+    font-size: 2em;
+    margin-bottom: 1rem;
+    color: #c0392b; /* Red color for cancellation */
+  }
+  
+  .cancel-container p {
+    font-size: 1.2em;
+  }
+  
+  .cancel-container button {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 1rem;
+    cursor: pointer;
+  }
+  
+  .cancel-container button:hover {
+    background-color: #ddd;
+  }
+  

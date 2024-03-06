@@ -1,0 +1,18 @@
+.success-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Set minimum height for full viewport */
+    background-color: #f0f9f9; /* Light background color */
+    color: #333; /* Text color */
+  }
+  
+  .success-container h1 {
+    font-size: 2em;
+    margin-bottom: 1rem;
+  }
+  
+  .success-container p {
+    font-size: 1.2em;
+  }
+  
