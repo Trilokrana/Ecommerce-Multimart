@@ -15,8 +15,6 @@ Tech Stack
 
 **A Blazing-Fast and Feature-Rich E-commerce Platform**
 
-This project is a full-fledged e-commerce platform built with cutting-edge technologies that prioritize speed, performance, and developer experience. Welcome to a seamless journey for both merchants and shoppers!
-
 **Tech Stack**
 
 Here's a breakdown of the powerful tools that empower Ecommerce-Multimart:
@@ -62,6 +60,4 @@ Here's a breakdown of the powerful tools that empower Ecommerce-Multimart:
 
 We welcome contributions to this project! Please refer to the CONTRIBUTING.md file (if included) for guidelines on submitting pull requests and code standards.
 
-Contributing
-# Ecommerce-Multimart
 # Ecommerce-Multimart
